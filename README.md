@@ -1,21 +1,18 @@
 # AylosDev - Official Website
 
-Welcome to the official website of **AylosDev**, where intangible ideas become tangible software solutions.
+Welcome to **AylosDev**, where we turn ideas into real software solutions.
 
 ## About AylosDev
 
-AylosDev represents the perfect fusion of conceptual thinking and practical development. Our name combines:
+AylosDev combines the Greek word "άυλος" (aylos), meaning intangible, with "Dev" representing our passion for development. Our name reflects our mission: transforming abstract concepts into functional software.
 
-- **Άυλος (Aylos)** - Greek for "intangible" or "immaterial"
-- **Dev** - Representing development and programming
-
-This unique combination reflects our core philosophy: transforming intangible ideas, abstract concepts, and visionary thinking into tangible, functional software solutions that drive real-world impact.
+We're a passionate team of developers who started this journey together, driven by our shared love for creating meaningful software. While we're still growing and learning, our commitment to quality and innovation remains unwavering.
 
 ## Services
 
 - **Web Development** - Modern, responsive web applications
-- **Mobile Development** - Native and cross-platform mobile apps
-- **Cloud Solutions** - Scalable cloud infrastructure and services
+- **Mobile Development** - Native and cross-platform mobile apps  
+- **Backend & Cloud** - Robust backend systems and cloud infrastructure
 
 ## Website
 
@@ -48,4 +45,4 @@ This site is automatically deployed using GitHub Pages from the `main` branch.
 
 ---
 
-*Transforming the intangible into the tangible.* ✨
+*Transforming ideas into code, one project at a time.* ✨
